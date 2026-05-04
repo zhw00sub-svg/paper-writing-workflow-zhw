@@ -19,6 +19,7 @@ Perform final integrated validation before delivery.
 ## Required Outputs
 
 - `final qc report`
+- language authenticity check
 
 ## Hooks
 
@@ -30,3 +31,7 @@ Perform final integrated validation before delivery.
 
 - minor failure -> `DRAFTING`
 - major failure -> `CLAIM_MAP`
+
+## Language Gate
+
+Before delivery, verify that `references/workflows/language-style-policy.md` has been applied. If the manuscript still contains obvious AI-like boilerplate, inflated claims, translationese Chinese, or generic English academic phrasing, return to `POLISH`.

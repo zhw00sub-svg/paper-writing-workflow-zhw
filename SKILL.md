@@ -39,6 +39,7 @@ Read these files when needed:
 - `references/workflows/state-machine.md` for state transitions and rollbacks
 - `references/workflows/hooks-spec.md` for hooks and QC gates
 - `references/workflows/handoff-contract.md` for subagent and user-facing report formats
+- `references/workflows/language-style-policy.md` for human academic style, Chinese/English polish, and AI-like phrasing control
 - `references/skills/agent-skill-mapping.md` for required and conditional skills
 
 The main states are:
@@ -104,6 +105,7 @@ need_user_decision:
 - `master-agent` is the only state owner.
 - `INTAKE` is executed by `master-agent`, not a separate intake agent.
 - `SCIENTIFIC_QC`, `VISUAL_QC`, and `FINAL_QC` are hard gates.
+- `POLISH` must apply `references/workflows/language-style-policy.md`; generic smoothing is not enough.
 - Do not skip `VISUAL_DRAFT` or `VISUAL_QC` when figures matter to the manuscript.
 - Do not let a writing agent invent unsupported claims.
 - Clinical data interpretation belongs to `clinical-analysis-agent`; formal statistical logic belongs to `statistical-analysis-agent`.

@@ -32,6 +32,13 @@
 | `POLISH` | `before_agent_dispatch`, `after_agent_return` |
 | `FINAL_QC` | `before_gate`, `on_gate_fail`, `before_handoff` |
 
+## Language-Specific Hooks
+
+- `before_agent_dispatch(POLISH)`: load `language-style-policy.md`
+- `after_agent_return(polish-agent)`: require `meaning preservation notes`, `style changes`, and `remaining ai-like risks`
+- `before_gate(FINAL_QC)`: check generic AI-like phrasing, inflated claims, translationese Chinese, and over-smoothed English template prose
+- `on_gate_fail(FINAL_QC)`: route language failures to `POLISH`
+
 ## Figure-Specific Hooks
 
 - `on_state_enter(VISUAL_DRAFT)`: require draft visuals

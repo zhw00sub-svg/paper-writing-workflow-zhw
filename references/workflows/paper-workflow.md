@@ -41,8 +41,8 @@
 | `VISUAL_DRAFT` | produce draft visuals and plotting handoff | `draft visuals`, `figure-ready data` |
 | `SCIENTIFIC_QC` | test scientific correctness | `scientific qc report` |
 | `VISUAL_QC` | test visual clarity and consistency | `visual qc report` |
-| `POLISH` | improve expression without changing meaning | `polished draft` |
-| `FINAL_QC` | final integrated review | `final qc report` |
+| `POLISH` | improve expression without changing meaning and reduce generic AI-like language | `polished draft`, `style changes`, `remaining ai-like risks` |
+| `FINAL_QC` | final integrated review including language authenticity check | `final qc report` |
 | `DELIVERED` | package and hand off artifacts | delivery bundle |
 
 ## Parallelism Policy
@@ -58,9 +58,10 @@
 - citation metadata mismatch
 - figure-text inconsistency
 - over-polishing that changes scientific meaning
+- generic AI-like prose, translationese Chinese, or over-smoothed English academic boilerplate
 
 ## Hard Gates
 
 - `SCIENTIFIC_QC`: must verify claims, numbers, citations, and methods
 - `VISUAL_QC`: must verify figure-text alignment and readability
-- `FINAL_QC`: must verify integrated submission quality
+- `FINAL_QC`: must verify integrated submission quality and language authenticity using `language-style-policy.md`

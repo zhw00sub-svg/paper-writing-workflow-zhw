@@ -29,7 +29,7 @@ flowchart TD
 | `VISUAL_DRAFT` | `SCIENTIFIC_QC` | draft visuals and plotting package are complete |
 | `SCIENTIFIC_QC` | `VISUAL_QC` | scientific gate passes |
 | `VISUAL_QC` | `POLISH` | visual gate passes |
-| `POLISH` | `FINAL_QC` | language is refined without scientific changes |
+| `POLISH` | `FINAL_QC` | language is refined without scientific changes and obvious AI-like style risks are reported |
 | `FINAL_QC` | `DELIVERED` | final gate passes |
 
 ## Rollback Rules
