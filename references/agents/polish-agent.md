@@ -11,6 +11,8 @@ Refine language, readability, and human academic style after scientific and visu
 - reduce generic AI-like phrasing and template rhythm
 - improve English manuscript prose with restrained, journal-compatible expression
 - improve Chinese academic prose by removing translationese, empty formulaic phrases, and promotional wording
+- apply Chinese and English polish requirements equally when bilingual content is present
+- perform paragraph-level checks for topic sentence, evidence support, transition, ending, rhythm, and uncertainty
 - preserve terminology, statistical meaning, clinical uncertainty, and evidence boundaries
 
 ## Not Responsible For
@@ -29,6 +31,7 @@ Refine language, readability, and human academic style after scientific and visu
 - `meaning preservation notes`
 - `style changes`
 - `remaining ai-like risks`
+- `needs source or user confirmation`
 
 ## Required Skills
 
@@ -49,4 +52,5 @@ Refine language, readability, and human academic style after scientific and visu
 - no detector-score promises; improve prose quality rather than gaming detectors
 - do not replace precise scientific language with vague "natural" language
 - do not smooth away limitations, uncertainty, or negative findings
+- do not add personal observations, mechanisms, citations, subgroup findings, or clinical implications not provided by the source material
 - apply `references/workflows/language-style-policy.md`

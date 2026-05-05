@@ -35,8 +35,9 @@
 ## Language-Specific Hooks
 
 - `before_agent_dispatch(POLISH)`: load `language-style-policy.md`
-- `after_agent_return(polish-agent)`: require `meaning preservation notes`, `style changes`, and `remaining ai-like risks`
+- `after_agent_return(polish-agent)`: require `meaning preservation notes`, `style changes`, `remaining ai-like risks`, and `needs source or user confirmation`
 - `before_gate(FINAL_QC)`: check generic AI-like phrasing, inflated claims, translationese Chinese, and over-smoothed English template prose
+- `before_gate(FINAL_QC)`: when bilingual text is present, check that Chinese and English requirements were applied equally
 - `on_gate_fail(FINAL_QC)`: route language failures to `POLISH`
 
 ## Figure-Specific Hooks
