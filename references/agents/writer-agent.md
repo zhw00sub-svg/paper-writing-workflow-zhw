@@ -8,6 +8,8 @@ Draft manuscript sections from the approved claim map.
 
 - write sections in manuscript form
 - keep wording within approved evidence boundaries
+- when drafting an English `Discussion`, use the inverted-triangle structure in `references/workflows/language-style-policy.md`
+- make the English `Discussion` open with the central interpretation, then converge evidence, prior literature, plausibility, limitations, and implications toward a concise ending
 
 ## Not Responsible For
 
@@ -24,6 +26,7 @@ Draft manuscript sections from the approved claim map.
 
 - section drafts
 - updated `manuscript draft`
+- `discussion structure notes` when drafting or revising the `Discussion`
 
 ## Required Skills
 
@@ -41,3 +44,4 @@ Draft manuscript sections from the approved claim map.
 ## Guardrails
 
 - no unsupported claims
+- do not use a Chinese-style spindle structure for English `Discussion`

@@ -304,6 +304,38 @@ Avoid unsupported causal claims:
 - `caused`
 - `led to` unless the study design supports causality
 
+## English Discussion Structure / 英文 Discussion 结构
+
+This rule mainly applies to the `Discussion` section, especially the opening interpretation, comparison with prior work, mechanistic or clinical interpretation, limitations, and closing paragraph.
+
+英文 Discussion 不是中文语境中常见的“梭形结构”，不应从宽泛背景慢慢铺垫到中间再收回。Discussion 应采用倒三角式推进：先给出最重要、最能回答研究问题的解释，再逐步展开证据、比较、机制、限制和临床含义，最后以凝练的判断收束。
+
+### Required Structure
+
+- Open with the central interpretation, not a generic background sentence.
+- Put the strongest and most study-specific point early.
+- Move from primary finding to supporting details, then to interpretation, context, limitations, and implication.
+- Let different threads gradually converge: main result, prior literature, biological or clinical plausibility, limitations, and practical meaning should point toward the same final judgment.
+- The ending should be concise and earned. It should not repeat the opening mechanically or introduce new evidence.
+- Use transitions that show conceptual convergence rather than simple sequencing.
+
+### 中文执行说明
+
+- Discussion 开头应先回应“本研究最重要的发现说明了什么”，而不是重新介绍研究背景。
+- 结构应先重后轻：核心发现和核心解释靠前，次要信息、补充解释和限制靠后。
+- 段落之间不是简单“首先、其次、最后”，而是让多条线索逐渐汇合：结果线索、文献线索、机制或临床解释线索、限制线索共同指向结尾判断。
+- 结尾要短、准、收束，不要写成空泛口号，也不要临时加入新发现。
+- 如果 Discussion 写得像中文综述式铺垫、政策报告式总结或模板化 AI 结尾，应返回重写。
+
+### Failure Patterns
+
+- opening with broad field background before stating the study's core interpretation
+- evenly weighted paragraphs with no hierarchy of importance
+- mechanical sequence markers instead of converging logic
+- a conclusion that merely restates the previous paragraph
+- adding new claims in the final paragraph
+- presenting limitations as an afterthought rather than integrating them into the final judgment
+
 ## Paragraph-Level Revision Rules / 段落级修订规则
 
 每段应检查：

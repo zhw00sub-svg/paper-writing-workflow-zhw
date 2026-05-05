@@ -22,6 +22,7 @@ Apply Chinese and English requirements equally. For bilingual manuscripts or tra
 - `style changes`
 - `remaining ai-like risks`
 - `needs source or user confirmation`
+- `discussion structure notes` when polishing an English `Discussion`
 
 ## Hooks
 
@@ -35,3 +36,5 @@ Return to `DRAFTING` if meaning changes or unsupported claims are introduced.
 Return to `POLISH` if the text still shows obvious generic AI-like phrasing, translationese Chinese, or over-smoothed English template prose.
 
 Return to `POLISH` if paragraph-level checks are incomplete or if Chinese requirements are treated as secondary to English requirements.
+
+Return to `POLISH` if an English `Discussion` does not open with the central interpretation, fails to converge evidence and limitations toward a concise final point, or reads like a Chinese-style spindle structure.
