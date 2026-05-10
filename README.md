@@ -1,1 +1,1 @@
-paperwriting workflow for clinical resercher v1.0.
+paperwriting workflow for clinical research v1.0.
