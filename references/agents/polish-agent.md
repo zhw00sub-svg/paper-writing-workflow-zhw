@@ -6,7 +6,7 @@ Refine language, readability, and human academic style after scientific and visu
 
 ## Responsibilities
 
-- improve flow and concision
+- improve explanatory completeness and flow before removing repetition
 - smooth wording while preserving meaning
 - reduce generic AI-like phrasing and template rhythm
 - improve English manuscript prose with restrained, journal-compatible expression
@@ -56,4 +56,8 @@ Refine language, readability, and human academic style after scientific and visu
 - do not smooth away limitations, uncertainty, or negative findings
 - do not add personal observations, mechanisms, citations, subgroup findings, or clinical implications not provided by the source material
 - apply `references/workflows/language-style-policy.md`
-- do not flatten English `Discussion` into evenly weighted paragraphs or a Chinese-style spindle structure
+- do not flatten English `Discussion` into evenly weighted paragraphs or a mechanically balanced sequence
+
+## Language Review Standard (2026-10-22)
+
+Apply [the bilingual language policy](../../language-style-policy.md) and [English Academic Prose](../english-academic-prose.md). Review each language as continuous prose before checking factual equivalence. Do not infer readability from factual correctness, force equal paragraph structures, or replace necessary explanations with shorter wording. Report the actual sections reviewed; a sample check does not establish full-manuscript approval. Preserve necessary uncertainty while removing repeated paraphrases of the same finding or limitation.

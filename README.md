@@ -1,1 +1,10 @@
-paperwriting workflow for clinical research v1.0.
+# ZHW 中英文医学论文写作
+
+本仓库保留现有论文工作流，并维护作者确认的中英文表达规范。
+
+- [技能入口](SKILL.md)：起草、重写、翻译、润色与论文交付。
+- [中英文语言规范](language-style-policy.md)：完整解释、自然衔接和独立语言审读。
+- [英文写作与润色](references/english-academic-prose.md)：英文独立成文、惯用搭配、证据强度与双语核对。
+- [中英文改写示例](references/natural-academic-prose.md)：区分有效解释、过度压缩与重复复述。
+
+2026-10-22更新：中文采用作者认可的修订稿作为表达参照；英文适用同样的论述要求，按自身句法组织。科学核验与语言审读分别执行。现有入口已覆盖英语写作，无需另建同功能技能。

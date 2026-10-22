@@ -37,4 +37,8 @@ Return to `POLISH` if the text still shows obvious generic AI-like phrasing, tra
 
 Return to `POLISH` if paragraph-level checks are incomplete or if Chinese requirements are treated as secondary to English requirements.
 
-Return to `POLISH` if an English `Discussion` does not open with the central interpretation, fails to converge evidence and limitations toward a concise final point, or reads like a Chinese-style spindle structure.
+Return to `POLISH` if an English `Discussion` does not open with the central interpretation, fails to converge evidence and limitations toward a concise final point, or relies on mechanical paragraph templates.
+
+## Language Review Standard (2026-10-22)
+
+Apply [the bilingual language policy](../../language-style-policy.md) and [English Academic Prose](../english-academic-prose.md). Review each language as continuous prose before checking factual equivalence. Do not infer readability from factual correctness, force equal paragraph structures, or replace necessary explanations with shorter wording. Report the actual sections reviewed; a sample check does not establish full-manuscript approval. Preserve necessary uncertainty while removing repeated paraphrases of the same finding or limitation.

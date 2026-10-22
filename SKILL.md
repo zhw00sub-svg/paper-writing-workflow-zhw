@@ -7,6 +7,10 @@ description: Use this personal skill for ZHW's scientific manuscript writing pro
 
 Use this skill to run ZHW's private manuscript workflow.
 
+## Author's Bilingual Prose Standard
+
+For drafting, rewriting, translating, or polishing, read [language-style-policy.md](language-style-policy.md). For English, also read [references/english-academic-prose.md](references/english-academic-prose.md). The author confirmed this preference on 2026-10-22: complete explanations, natural professional collocations, and substantive progression take priority over compression. Chinese and English are written and reviewed independently, then checked for factual equivalence. Generic short-sentence targets or vocabulary blacklists in supporting skills must not override this preference.
+
 ## Default Interaction
 
 - Treat the current conversation as the `master-agent` channel.
@@ -89,7 +93,7 @@ Do not treat figure work as an end-of-project decoration step.
 
 ## Reporting Format
 
-When reporting workflow status to the user, use this shape unless the user asks otherwise:
+Use concise, readable prose for user-facing updates. The following fields are for internal state records when useful:
 
 ```text
 current_state:
