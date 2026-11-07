@@ -113,3 +113,7 @@ need_user_decision:
 - Do not skip `VISUAL_DRAFT` or `VISUAL_QC` when figures matter to the manuscript.
 - Do not let a writing agent invent unsupported claims.
 - Clinical data interpretation belongs to `clinical-analysis-agent`; formal statistical logic belongs to `statistical-analysis-agent`.
+
+## 2026-11-07 论证优先更新
+
+中英文论文明确中心回答、逐段推进论证，科学限定按必要性放置，避免重复自我撤回。执行 [个人语言规范](language-style-policy.md) 的最新补充和 [工作流](references/workflows/paper-workflow.md) 中对应的检查；不将科普评论修辞迁入论文，不改变既有投稿交付要求。
