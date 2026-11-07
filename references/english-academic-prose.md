@@ -51,3 +51,9 @@ The revision supplies the observed relationship and its relevant limits without 
 Read the English passage continuously, without looking at the Chinese source. Check whether the finding, reasoning, and references are understandable on their own. Then check factual equivalence against the source or claim map. These are separate tasks.
 
 For a short edit, return the revised passage with a brief explanation of the substantive language change. For a manuscript, review all requested sections and record the actual coverage; a successful sample does not certify the whole text. If author-approved English samples later become available, use them to refine collocations and register without treating their claims as evidence for a new paper.
+
+## Argument-led writing preference confirmed 2026-11-07
+
+State the research question and the strongest answer the evidence actually supports. Build Introduction and Discussion around that answer, with each paragraph advancing, testing, or qualifying it. Do not substitute a sequence of literature summaries for reasoning. A null or uncertain result can be the central answer; preserve contradictory evidence.
+
+Place consequential qualifications next to the inference they constrain, and discuss systematic limitations with their actual consequences. Remove repeated defensive disclaimers, not uncertainty. Authorial confidence means a clear interpretation supported by evidence, not stronger causal verbs. Methods remain reproducible and Results complete. Review argument progression separately from factual equivalence and idiomatic English.
