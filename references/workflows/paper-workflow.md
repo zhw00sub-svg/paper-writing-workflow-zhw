@@ -65,3 +65,10 @@
 - `SCIENTIFIC_QC`: must verify claims, numbers, citations, and methods
 - `VISUAL_QC`: must verify figure-text alignment and readability
 - `FINAL_QC`: must verify integrated submission quality and language authenticity using `language-style-policy.md`
+
+## 2026-11-07 论证推进检查并入现有工作流
+
+- CLAIM_MAP：用一句话记录研究问题和结果允许的中心回答；区分直接发现、解释与待验证方向，纳入相反结果和未解决问题，不另建状态机。
+- DRAFTING：段落功能提纲同时标注新增认识、证据位置与前段关系。原始研究、综述和Methods采用各自适当结构，不为叙事牺牲报告完整性。
+- POLISH：先连续检查中心论点和段落推进，再合并重复限定，最后复核推断强度。逐段问“这一段让读者比上一段多理解了什么”。没有新增认识时合并或重写，必要定义及可复现细节除外。
+- SCIENTIFIC_QC/FINAL_QC：检查增强行文力度后是否隐去不利结果、放大因果或临床效用；任何证据与结论变化返回原有科学核验流程。此补充是现有gate的判据，不自动代表通过。
